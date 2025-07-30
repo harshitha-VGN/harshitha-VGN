@@ -54,8 +54,6 @@ This section automatically updates to show my recent activity and language usage
 <p align="center">
   <a href="https://github.com/harshitha-VGN">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitha-VGN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Harshitha's GitHub Stats" />
-    <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-VGN&layout=compact&theme=tokyonight" alt="Your Top Languages"/>
   </a>
 </p>
 
