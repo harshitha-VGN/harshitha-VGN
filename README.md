@@ -51,7 +51,7 @@ Here are the technologies I'm proficient with:
 
 This section automatically updates to show my recent activity.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/harshitha-VGN">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitha-VGN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Harshitha's GitHub Stats" />
   </a>
