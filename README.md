@@ -14,7 +14,7 @@ As a developer, I believe in constant growth. Here is what I'm focused on right 
 
 - 🌱 **I'm currently deepening my knowledge in:** Deep Learning (specifically with TensorFlow) and building scalable backend APIs with Node.js.
 - 💡 **I'm most interested in projects that:** Involve data processing, computer vision, or building clean, user-friendly web interfaces.
-- 👯 **I'm looking to collaborate on:** Beginner-friendly open source projects where I can learn from experienced developers and make meaningful contributions.
+- 👯 **I'm looking to collaborate on:** Impactful open source projects in AI/ML and web dev that promote learning and real-world problem solving.
 - 📫 **How to reach me:** You can reach me via email at [harshithavankadara52@gmail.com](mailto:harshithavankadara52@gmail.com)
 
 
@@ -57,9 +57,6 @@ This section automatically updates to show my recent activity and language usage
     <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-VGN&layout=compact&theme=tokyonight" alt="Your Top Languages"/>
   </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitha-VGN&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 
