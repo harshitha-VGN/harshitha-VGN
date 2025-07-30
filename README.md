@@ -49,7 +49,7 @@ Here are the technologies I'm proficient with:
 
 ### 📈 My GitHub Activity & Stats
 
-This section automatically updates to show my recent activity and language usage.
+This section automatically updates to show my recent activity.
 
 <p align="center">
   <a href="https://github.com/harshitha-VGN">
